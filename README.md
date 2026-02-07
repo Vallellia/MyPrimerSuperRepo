@@ -1,5 +1,11 @@
-# MyPrimerSuperRepo
-un repositorio en github
+# Pasos para el flujo basico de git
+```sh
+git status
+git add . o git add -a
+git status
+git commit -m "descripcion del cambio"
+git push
+```
 
-# un cambio en super repo
-El cambio que estoy haciendo
+## Nota:
+El mensaje del commit debe de ser una oracion descriptivo del cambio
